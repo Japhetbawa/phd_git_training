@@ -5,3 +5,9 @@ Research area: Bioinformatics Analysis of Metagenomes and Viromes
 -Bash
 -Python
 -Bioinformatics
+## Git Concepts Learned
+-Modified
+-staged
+-commit
+-push
+-Git history
